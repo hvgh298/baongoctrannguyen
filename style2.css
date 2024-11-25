@@ -4454,6 +4454,30 @@ http://flickity.metafizzy.co
   transform: translateX(3px);
 }
 
+.small-button {
+  display: inline-block;
+  padding: 5px 10px; /* Adjust for smaller size */
+  margin-top: 20px;
+  font-size: 17px; /* Smaller text */
+  color: #04bf68;
+  background-color: #ffffff; /* Green background */
+  border-radius: 5px; /* Rounded corners */
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.small-button:hover {
+  color: #04bf68;
+  background-color: #efffe4; /* Slightly darker green on hover */
+}
+
+.small-button .arrow {
+  margin-right: 5px; /* Space between arrow and text */
+}
+
  @media (max-width: 1028px) {
             .future-discription-container {
                 padding: 20px 25px; /* Increased padding for mobile devices */
