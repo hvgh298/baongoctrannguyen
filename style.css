@@ -68,9 +68,10 @@ body {
 }
 
 .footer {
+  
   background-color: #f7f7f7;
-  padding: 40px 0;
-  border-top: 1px solid #e0e0e0;
+  padding: 10px 0;
+  border-top: 10px solid #e0e0e0;
 }
 
 .footer-container {
@@ -149,7 +150,7 @@ body {
 
 .footer-bottom {
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10px;
   /* background-color: #e0e0e0; */
   color: #555;
   font-size: 14px;

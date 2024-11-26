@@ -697,7 +697,8 @@ hr {
   background-color: #04bf68;
   color: #fff;
   margin-top: 50px;
-  margin-top: 4.16667rem;
+  margin-top: 5rem;
+  padding-top: 40px;
 }
 #footer a {
   color: #fff;
@@ -715,14 +716,14 @@ hr {
   margin: 0 50px 0 190px;
   margin: 0 4.16667rem 0 15.83333rem;
   padding-bottom: 50px;
-  padding-bottom: 4.16667rem;
+  padding-bottom: 30px;
 }
 #footer-storeinfo {
   width: 300px;
   width: 25rem;
   border: solid 1px #ffffff;
   padding-bottom: 25px;
-  padding-bottom: 2.08333rem;
+  padding-bottom: 0px;
 }
 #footer-storeinfo .logo {
   width: 75px;
@@ -1128,7 +1129,7 @@ hr {
 }
 .__row {
   padding-top: 12.5px;
-  padding-top: 1.04167rem;
+  padding-top: 1px;
 }
 .__row:first-child,
 .__row.is-row-no-top {
