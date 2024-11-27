@@ -1290,11 +1290,14 @@ hr {
   width: 95%;
 }
 .col-100 {
-  width: 100%;
+  width: 80%;
+  margin-left: 3rem;
+  margin-top: 2rem;
 }
 img {
   width: 100%;
   height: auto;
+
 }
 .image {
   position: relative;
