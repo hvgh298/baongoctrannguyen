@@ -248,6 +248,7 @@ summary {
 .is-touch .is-show-touch {
   display: block !important;
 }
+
 .bgcolor-bg {
   background-color: #fff;
 }
@@ -584,7 +585,7 @@ hr {
 #collection-nav .child-nav-container .child-nav-wrapper {
   width: 100%;
   padding: 25px;
-  padding: 2.08333rem;
+  
   background-color: #fff;
   border: solid 1px #04bf68;
   -webkit-columns: 3;
@@ -721,7 +722,7 @@ hr {
 #footer-storeinfo {
   width: 300px;
   width: 24.5rem;
-  border: solid 2px #ffffff;
+  
   padding-bottom: 25px;
   padding-bottom: 0px;
 }
@@ -919,6 +920,11 @@ hr {
   padding-bottom: 12.5px;
   padding-bottom: 1.04167rem;
 }
+
+#footer p {
+  margin-bottom: 0 !important;
+}
+
 ._grid-container.is-grid-medium-bottom.is-negative-bottom {
   margin-bottom: -37.5px;
   margin-bottom: -3.125rem;
@@ -1105,7 +1111,7 @@ hr {
 }
 ._row {
   padding-top: 25px;
-  padding-top: 2.08333rem;
+  padding-top: 1rem;
 }
 ._row:first-child,
 ._row.is-row-no-top {
@@ -1292,7 +1298,7 @@ hr {
 .col-100 {
   width: 80%;
   margin-left: 3rem;
-  margin-top: 2rem;
+
 }
 img {
   width: 100%;
@@ -4487,3 +4493,5 @@ http://flickity.metafizzy.co
                 padding: 20px 25px; /* Increased padding for mobile devices */
             }
         }
+
+        
